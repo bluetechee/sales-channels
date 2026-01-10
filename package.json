@@ -1,0 +1,14 @@
+{
+  "name": "sales-channels",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "private": true,
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    
+  }
+}
